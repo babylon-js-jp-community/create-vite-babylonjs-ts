@@ -13,7 +13,9 @@ Babylon.js Vite project template — a minimal starter template using **Vite**, 
 
 ```bash
 # Create a new Vite project using the template
-npm create vite-babylonjs-ts
+npx tiged babylon-js-jp-community/create-vite-babylonjs-ts new-project
+
+cd new-project
 
 # Install dependencies
 npm install
